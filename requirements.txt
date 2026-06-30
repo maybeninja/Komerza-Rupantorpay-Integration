@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+discord-webhook
+python-multipart
+pyyaml
+pyfiglet
